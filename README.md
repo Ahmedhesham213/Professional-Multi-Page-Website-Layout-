@@ -25,7 +25,7 @@ This project demonstrates front-end development skills by building a complete we
 
 ## 🔗 Live Demo
 
-(Add your live demo link here)
+(https://chtiouiwebshowcase.netlify.app/)
 
 ## 📁 Getting Started
 
